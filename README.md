@@ -1,1 +1,2 @@
-# Demon-DASH-by-DB-and-TY-
+# Demon Dash
+Made by DB and TY
